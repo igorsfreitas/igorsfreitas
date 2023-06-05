@@ -9,7 +9,7 @@
     name: 'Igor Freitas',
     age: 31,
     city: 'Recife, PE',
-    stack: ['Javascript', 'NodeJS', 'React/Native', '(My|Postgre)SQL']
+    stack: ['Javascript', 'NodeJS', 'GoLang', 'React/Native', '(My|Postgre)SQL']
   });
   
   return response.status(201).send();
